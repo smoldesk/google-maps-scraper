@@ -105,7 +105,7 @@ Filtered-out, duplicate and already-seen places are free. Websites with no email
 - Reviews: only the top 5 per place. Google Maps shows the full list only to signed-in users, and this scraper doesn't sign in.
 - About 120 places per search (Google's limit). Use smaller locations or `splitArea`.
 - Emails come from the business's own website. Some sites list none or block bots. Emails are not verified.
-- No popular times, menus, Q&A or owner replies.
+- No popular times, menus or Q&A. Owner replies to the top reviews are included (`ownerReply`).
 
 ## FAQ
 

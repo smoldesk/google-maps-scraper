@@ -123,4 +123,4 @@ No. It uses no Google account and switches to Apify datacenter proxy on its own 
 
 ## More scrapers
 
-Google Maps Scraper is one of 20 no-login scrapers by Smoldesk Studios. See the full list: [smoldesk/apify-scrapers](https://github.com/smoldesk/apify-scrapers).
+Google Maps Scraper is one of 21 no-login scrapers by Smoldesk Studios. See the full list: [smoldesk/apify-scrapers](https://github.com/smoldesk/apify-scrapers).

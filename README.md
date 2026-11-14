@@ -68,21 +68,21 @@ console.log(items.map((p) => [p.name, p.emails, p.website]));
 
 ```json
 {
-  "placeId": "ChIJb5gBC-u0RIYRHkntaUcdJGs",
-  "name": "ATX Family Dental",
+  "placeId": "ChIJExample-HarborDental01",
+  "name": "Harbor Dental Studio",
   "category": "Dentist",
-  "address": "1700 S 1st St, Austin, TX 78704, United States",
-  "latitude": 30.2482229,
-  "longitude": -97.7559705,
+  "address": "418 Harbor Ln, Austin, TX 78704, United States",
+  "latitude": 30.2482,
+  "longitude": -97.7559,
   "rating": 4.9,
-  "reviewsCount": 918,
-  "phone": "+1 512-717-3147",
-  "website": "https://www.atxfamilydental.com/",
+  "reviewsCount": 1284,
+  "phone": "+1 512-555-0148",
+  "website": "https://www.harbordental.example/",
   "businessStatus": "OPERATIONAL",
   "claimedByOwner": true,
-  "googleMapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJb5gBC-u0RIYRHkntaUcdJGs",
-  "emails": ["info@atxfamilydental.com"],
-  "socialProfiles": {"instagram": ["https://www.instagram.com/atxfamilydental"]}
+  "googleMapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJExample-HarborDental01",
+  "emails": ["hello@harbordental.example"],
+  "socialProfiles": {"instagram": ["https://www.instagram.com/harbordental.example"]}
 }
 ```
 
